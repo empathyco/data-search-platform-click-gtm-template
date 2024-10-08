@@ -1,6 +1,9 @@
-homepage: "www.empathy.co",
-documentation: "https://www.empathy.co/docs",
+homepage: "www.empathy.co"
+documentation: "https://www.empathy.co/docs"
 versions:
     #Latest Version
+  - sha: 564450b870a612d92fa916755069d73fe125db4c
+    changeNotes: adding categories
+    #Older versions
   - sha: 0ed500e5a991cac19d56a40a71cf22ddcf89fa93
     changeNotes: Support Empathy platform and SaaS URI's on different environments
