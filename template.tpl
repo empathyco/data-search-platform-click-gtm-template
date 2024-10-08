@@ -6,6 +6,7 @@
   "version": 1,
   "securityGroups": [],
   "displayName": "Empathy Platform - Search click",
+  "categories": ["ANALYTICS", "PERSONALIZATION"],
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
